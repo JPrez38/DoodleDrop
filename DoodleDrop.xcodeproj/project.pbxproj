@@ -13,6 +13,22 @@
 		431F73EF1716F66B001CDE23 /* GameLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 431F73EA1716F66B001CDE23 /* GameLayer.m */; };
 		431F73F01716F66B001CDE23 /* alien-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 431F73EB1716F66B001CDE23 /* alien-hd.png */; };
 		431F73F11716F66B001CDE23 /* alien-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 431F73EB1716F66B001CDE23 /* alien-hd.png */; };
+		43C20A601716FD600009F9EC /* spider-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A5E1716FD600009F9EC /* spider-hd.png */; };
+		43C20A611716FD600009F9EC /* spider-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A5E1716FD600009F9EC /* spider-hd.png */; };
+		43C20A621716FD600009F9EC /* spider.png in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A5F1716FD600009F9EC /* spider.png */; };
+		43C20A631716FD600009F9EC /* spider.png in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A5F1716FD600009F9EC /* spider.png */; };
+		43C20A68171709A20009F9EC /* bitmapfont-hd.fnt in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A64171709A20009F9EC /* bitmapfont-hd.fnt */; };
+		43C20A69171709A20009F9EC /* bitmapfont-hd.fnt in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A64171709A20009F9EC /* bitmapfont-hd.fnt */; };
+		43C20A6A171709A20009F9EC /* bitmapfont-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A65171709A20009F9EC /* bitmapfont-hd.png */; };
+		43C20A6B171709A20009F9EC /* bitmapfont-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A65171709A20009F9EC /* bitmapfont-hd.png */; };
+		43C20A6C171709A20009F9EC /* bitmapfont.fnt in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A66171709A20009F9EC /* bitmapfont.fnt */; };
+		43C20A6D171709A20009F9EC /* bitmapfont.fnt in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A66171709A20009F9EC /* bitmapfont.fnt */; };
+		43C20A6E171709A20009F9EC /* bitmapfont.png in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A67171709A20009F9EC /* bitmapfont.png */; };
+		43C20A6F171709A20009F9EC /* bitmapfont.png in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A67171709A20009F9EC /* bitmapfont.png */; };
+		43C20A7217170A450009F9EC /* alien-sfx.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A7017170A450009F9EC /* alien-sfx.caf */; };
+		43C20A7317170A450009F9EC /* alien-sfx.caf in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A7017170A450009F9EC /* alien-sfx.caf */; };
+		43C20A7417170A450009F9EC /* blues.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A7117170A450009F9EC /* blues.mp3 */; };
+		43C20A7517170A450009F9EC /* blues.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 43C20A7117170A450009F9EC /* blues.mp3 */; };
 		DC21B88B1511078F00FD4891 /* fps_images-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = DC21B8881511078F00FD4891 /* fps_images-hd.png */; };
 		DC21B88C1511078F00FD4891 /* fps_images-ipadhd.png in Resources */ = {isa = PBXBuildFile; fileRef = DC21B8891511078F00FD4891 /* fps_images-ipadhd.png */; };
 		DC21B88D1511078F00FD4891 /* fps_images.png in Resources */ = {isa = PBXBuildFile; fileRef = DC21B88A1511078F00FD4891 /* fps_images.png */; };
@@ -46,8 +62,6 @@
 		DCC1A27013A94EE6005BD75D /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = DCC1A26F13A94EE6005BD75D /* icon.icns */; };
 		DCC1A3A913A94F1A005BD75D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC1A38E13A94F1A005BD75D /* AppDelegate.m */; };
 		DCC1A3AA13A94F1A005BD75D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC1A38E13A94F1A005BD75D /* AppDelegate.m */; };
-		DCC1A3AB13A94F1A005BD75D /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC1A39013A94F1A005BD75D /* HelloWorldLayer.m */; };
-		DCC1A3AC13A94F1A005BD75D /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC1A39013A94F1A005BD75D /* HelloWorldLayer.m */; };
 		DCC1A3AD13A94F1A005BD75D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC1A39113A94F1A005BD75D /* main.m */; };
 		DCC1A3AE13A94F1A005BD75D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC1A39113A94F1A005BD75D /* main.m */; };
 		DCC1A3AF13A94F1A005BD75D /* config.lua in Resources */ = {isa = PBXBuildFile; fileRef = DCC1A39513A94F1A005BD75D /* config.lua */; };
@@ -61,6 +75,14 @@
 		431F73E91716F66B001CDE23 /* GameLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameLayer.h; sourceTree = "<group>"; };
 		431F73EA1716F66B001CDE23 /* GameLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameLayer.m; sourceTree = "<group>"; };
 		431F73EB1716F66B001CDE23 /* alien-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "alien-hd.png"; path = "../alien-hd.png"; sourceTree = "<group>"; };
+		43C20A5E1716FD600009F9EC /* spider-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "spider-hd.png"; sourceTree = "<group>"; };
+		43C20A5F1716FD600009F9EC /* spider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spider.png; sourceTree = "<group>"; };
+		43C20A64171709A20009F9EC /* bitmapfont-hd.fnt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bitmapfont-hd.fnt"; sourceTree = "<group>"; };
+		43C20A65171709A20009F9EC /* bitmapfont-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bitmapfont-hd.png"; sourceTree = "<group>"; };
+		43C20A66171709A20009F9EC /* bitmapfont.fnt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bitmapfont.fnt; sourceTree = "<group>"; };
+		43C20A67171709A20009F9EC /* bitmapfont.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bitmapfont.png; sourceTree = "<group>"; };
+		43C20A7017170A450009F9EC /* alien-sfx.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "alien-sfx.caf"; sourceTree = "<group>"; };
+		43C20A7117170A450009F9EC /* blues.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = blues.mp3; sourceTree = "<group>"; };
 		DC21B8881511078F00FD4891 /* fps_images-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fps_images-hd.png"; sourceTree = "<group>"; };
 		DC21B8891511078F00FD4891 /* fps_images-ipadhd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fps_images-ipadhd.png"; sourceTree = "<group>"; };
 		DC21B88A1511078F00FD4891 /* fps_images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fps_images.png; sourceTree = "<group>"; };
@@ -102,8 +124,6 @@
 		DCC1A27113A94EE6005BD75D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = Resources/Info.plist; sourceTree = "<group>"; };
 		DCC1A38D13A94F1A005BD75D /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DCC1A38E13A94F1A005BD75D /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		DCC1A38F13A94F1A005BD75D /* HelloWorldLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelloWorldLayer.h; sourceTree = "<group>"; };
-		DCC1A39013A94F1A005BD75D /* HelloWorldLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		DCC1A39113A94F1A005BD75D /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DCC1A39213A94F1A005BD75D /* Prefix-iOS.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Prefix-iOS.pch"; sourceTree = "<group>"; };
 		DCC1A39313A94F1A005BD75D /* Prefix-Mac.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Prefix-Mac.pch"; sourceTree = "<group>"; };
@@ -238,8 +258,6 @@
 			children = (
 				431F73E91716F66B001CDE23 /* GameLayer.h */,
 				431F73EA1716F66B001CDE23 /* GameLayer.m */,
-				DCC1A38F13A94F1A005BD75D /* HelloWorldLayer.h */,
-				DCC1A39013A94F1A005BD75D /* HelloWorldLayer.m */,
 				DCC1A38D13A94F1A005BD75D /* AppDelegate.h */,
 				DCC1A38E13A94F1A005BD75D /* AppDelegate.m */,
 				DCC1A39413A94F1A005BD75D /* Resources */,
@@ -251,6 +269,14 @@
 		DCC1A39413A94F1A005BD75D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				43C20A7017170A450009F9EC /* alien-sfx.caf */,
+				43C20A7117170A450009F9EC /* blues.mp3 */,
+				43C20A64171709A20009F9EC /* bitmapfont-hd.fnt */,
+				43C20A65171709A20009F9EC /* bitmapfont-hd.png */,
+				43C20A66171709A20009F9EC /* bitmapfont.fnt */,
+				43C20A67171709A20009F9EC /* bitmapfont.png */,
+				43C20A5E1716FD600009F9EC /* spider-hd.png */,
+				43C20A5F1716FD600009F9EC /* spider.png */,
 				431F73E81716F66B001CDE23 /* alien.png */,
 				431F73EB1716F66B001CDE23 /* alien-hd.png */,
 				DCC1A39513A94F1A005BD75D /* config.lua */,
@@ -365,6 +391,14 @@
 				DC2721A8160CAFA600D88944 /* iTunesArtwork in Resources */,
 				431F73EC1716F66B001CDE23 /* alien.png in Resources */,
 				431F73F01716F66B001CDE23 /* alien-hd.png in Resources */,
+				43C20A601716FD600009F9EC /* spider-hd.png in Resources */,
+				43C20A621716FD600009F9EC /* spider.png in Resources */,
+				43C20A68171709A20009F9EC /* bitmapfont-hd.fnt in Resources */,
+				43C20A6A171709A20009F9EC /* bitmapfont-hd.png in Resources */,
+				43C20A6C171709A20009F9EC /* bitmapfont.fnt in Resources */,
+				43C20A6E171709A20009F9EC /* bitmapfont.png in Resources */,
+				43C20A7217170A450009F9EC /* alien-sfx.caf in Resources */,
+				43C20A7417170A450009F9EC /* blues.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -379,6 +413,14 @@
 				DC21B88F1511079900FD4891 /* fps_images.png in Resources */,
 				431F73ED1716F66B001CDE23 /* alien.png in Resources */,
 				431F73F11716F66B001CDE23 /* alien-hd.png in Resources */,
+				43C20A611716FD600009F9EC /* spider-hd.png in Resources */,
+				43C20A631716FD600009F9EC /* spider.png in Resources */,
+				43C20A69171709A20009F9EC /* bitmapfont-hd.fnt in Resources */,
+				43C20A6B171709A20009F9EC /* bitmapfont-hd.png in Resources */,
+				43C20A6D171709A20009F9EC /* bitmapfont.fnt in Resources */,
+				43C20A6F171709A20009F9EC /* bitmapfont.png in Resources */,
+				43C20A7317170A450009F9EC /* alien-sfx.caf in Resources */,
+				43C20A7517170A450009F9EC /* blues.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -390,7 +432,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCC1A3A913A94F1A005BD75D /* AppDelegate.m in Sources */,
-				DCC1A3AB13A94F1A005BD75D /* HelloWorldLayer.m in Sources */,
 				DCC1A3AD13A94F1A005BD75D /* main.m in Sources */,
 				431F73EE1716F66B001CDE23 /* GameLayer.m in Sources */,
 			);
@@ -401,7 +442,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCC1A3AA13A94F1A005BD75D /* AppDelegate.m in Sources */,
-				DCC1A3AC13A94F1A005BD75D /* HelloWorldLayer.m in Sources */,
 				DCC1A3AE13A94F1A005BD75D /* main.m in Sources */,
 				431F73EF1716F66B001CDE23 /* GameLayer.m in Sources */,
 			);
